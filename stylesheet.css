@@ -1,0 +1,7 @@
+#home {
+	background: url("https://timemarcheson.files.wordpress.com/2011/07/bugs-bunny-wallpaper.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
