@@ -9,5 +9,8 @@
 	background: url("http://www.prime-cuts.org/wp-content/uploads/2015/06/bugergrill.jpg");
 	height: 600px;
 	background-size: cover;
-	
+}
+#button{
+	height:6%;
+	margin-top:47%;
 }
