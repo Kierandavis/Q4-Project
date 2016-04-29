@@ -10,6 +10,9 @@
 	height: 600px;
 	background-size: cover;
 }
+.intro{
+	height:100%;
+}
 #button{
 	height:6%;
 	margin-top:47%;
